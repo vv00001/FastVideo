@@ -1,0 +1,37 @@
+{      
+    "appTitle": { 
+        "message": "FastVideo" 
+    }, 
+    "appDesc": { 
+        "message": "Video speed controls on the extension icon.", 
+        "description": "Video speed controls on the extension icon." 
+    },
+    "chrome_extension_title":{
+        "message": "Click for speed up"
+    },
+
+    
+    "mysorrytxt":{
+        "message":"I came up with this right away along with the whole idea, but the implementation is not at my level for learning my favorite js, everything is so complicate to implement such an option, I need another month or even more, and this is after the start of implementation))) Sorry"
+    },
+
+    "maxspeed": {
+        "message": "settings disabled maximum speed 2"
+    },
+    "readAboutSpeed": {
+        "message": "Change of maximum speed. Attention Disable resetting the speed to the initial 2 and 2 maximum. The list of speed settings by domain and channel will be saved but will not. On the expansion icon after speed 2 increases the speed by 0.25, but the icons by only five speeds"
+    },
+    "enableSettings":{
+        "message":"Enable settings"
+    },
+    "onSuperSet":{
+        "message":"Set speed for each domain and canal on YouTube"
+    },
+    
+    "knowbugs":{
+        "message":"Known issues:"
+    },
+    "knowiss":{
+        "message":"<In a number of players in social networks, the speed is not set, I work (not fast)"
+    }
+}
